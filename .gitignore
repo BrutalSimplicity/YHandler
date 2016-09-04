@@ -60,3 +60,4 @@ target/
 
 auth.json
 .idea/
+*.pypirc

@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='YHandler',
-      version='1.0.0',
+		version='1.0.1',
       classifer=[
       	'Development Status :: 3 - Alpha',
       	'Intended Audience :: Developers',
